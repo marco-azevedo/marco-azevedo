@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marco-azevedo
+- 👀 I’m interested in engineering
+- 🌱 I’m currently learning everythink I can
+- 💞️ I’m looking to collaborate on technology development
